@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.is-render-btn {
+  background: green;
+  color: white;
+  margin-top: 100px;
+  padding: 15px;
+  font-size: 30px;
+}
